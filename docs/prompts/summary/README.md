@@ -1,35 +1,27 @@
-📌 AI-Powered Study Notebook – Creating a GitHub Repository (DIO)
+🚀 Tools & Technologies
+NotebookLM
+GitHub
+Artificial Intelligence (LLMs)
 
-This project was developed as part of a hands-on challenge from Digital Innovation One, aiming to explore Artificial Intelligence as an active learning tool.
+🧪 QA Application
 
-Using NotebookLM, this project documents and structures the process of creating a GitHub repository from scratch.
+This project also demonstrates how AI can support Quality Assurance activities:
 
-🔗 Access the NotebookLM project:
-https://notebooklm.google.com/notebook/380f6a24-a8e7-4db3-bc14-37908f78e61c
+Generating test scenarios
+Structuring documentation
+Supporting requirement analysis
+Improving clarity and test coverage
 
-🎯 Context and Objectives
+💡 Final Insights
 
-Chosen Topic:
-Creating a GitHub repository from scratch
+This project highlights how AI can be used to:
 
-Objectives:
+Accelerate technical learning
+Structure knowledge effectively
+Support portfolio development
+Enhance analytical and critical thinking skills
 
-Understand the end-to-end repository creation process
-Apply GitHub best practices
-Use AI to structure technical knowledge
-Build reusable study material
-Strengthen my professional portfolio
-📚 Source Curation
+📌 About Me
 
-Sources used in NotebookLM:
-
-GitHub official documentation
-README best practices guides
-Git and version control materials
-Introductory GitHub tutorials
-
-💡 Criteria:
-
-Reliability
-Up-to-date content
-Practical relevance
+QA Analyst with experience in manual and automation testing, focused on quality, usability, and continuous improvement. 
+This project demonstrates my ability to leverage Artificial Intelligence as a tool for learning and professional growth.
