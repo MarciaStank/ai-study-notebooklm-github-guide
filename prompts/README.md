@@ -1,26 +1,20 @@
-🤖 Prompt Engineering & Learnings
+# 🤖 Prompt Engineering & Learnings
 
-🔹 Prompts Used
+## 🔹 Prompts Used
 
-Explain how to create a GitHub repository from scratch
+- Explain how to create a GitHub repository from scratch
+- Create a detailed step-by-step guide with practical examples
+- Explain how to create a GitHub repository following industry best practices, including a professional README
 
-Create a detailed step-by-step guide with practical examples
+## ⚠️ Challenges
 
-Explain how to create a GitHub repository following industry best practices, including a professional README
-
-⚠️ Challenges
-
-Generic initial responses
-
-Lack of practical examples
-
-Need for prompt refinement
+- Generic initial responses
+- Lack of practical examples
+- Need for prompt refinement
 
 
-✅ Key Learnings
+## ✅ Key Learnings
 
-Specific prompts improve results
-
-Context enhances response quality
-
-Iteration is essential when using AI
+- Specific prompts improve results
+- Context enhances response quality
+- Iteration is essential when using AI
