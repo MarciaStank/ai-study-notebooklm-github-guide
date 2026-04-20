@@ -29,3 +29,9 @@
 | Branch     | Parallel version   |
 | README     | Main documentation |
 
+
+## 🧠 Reusable Prompts
+
+- Explain how to create a GitHub repository step by step
+- Create a professional README
+- What mistakes should I avoid on GitHub?
